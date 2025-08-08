@@ -1,0 +1,13 @@
+package com.isi.ExamenMricoService;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class ExamenMricoServiceApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
